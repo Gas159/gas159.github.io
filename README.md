@@ -11,6 +11,7 @@
             <a href="/professions/nodejs">Node.js-программист</a>
         </h3>
         <p>1here some text :)</p>
+        <script src="./assets/scripts.js"></script
    
     </body>
 </html>
