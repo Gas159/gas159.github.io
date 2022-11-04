@@ -6,12 +6,12 @@
         <title>Курсы по программированию Хекслет</title>
     </head>
     <body>
-        <img src="./images/poster.jpg" alt="Иконка профессии Node.js-программист">
+        <img src="/images/poster.jpg" alt="Иконка профессии Node.js-программист">
         <h3>
             <a href="/professions/nodejs">Node.js-программист</a>
         </h3>
         <p>1here some text :)</p>
-        <script src="./assets/scripts.js"></script
+        <script src="/images/scripts.js"></script
    
     </body>
 </html>
