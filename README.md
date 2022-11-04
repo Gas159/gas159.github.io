@@ -3,7 +3,7 @@
 <html lang="ru">
     <head>
         <meta charset="utf-8">
-        <title>Курсы по программированию Хекслет</title>
+        <title> Op OP</title>
     </head>
     <body>
         <img src="/images/poster.jpg" alt="Иконка профессии Node.js-программист">
